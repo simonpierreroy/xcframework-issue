@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Braintree",
+        "repositoryURL": "git@github.com:braintree/braintree_ios.git",
+        "state": {
+          "branch": null,
+          "revision": "55178c1a45aaa9f1e804123141b582684ea8ebb2",
+          "version": "5.3.2"
+        }
+      },
+      {
+        "package": "Stripe",
+        "repositoryURL": "git@github.com:stripe/stripe-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "8ca9931984949fbce44c342d5cecdada03cda18f",
+          "version": "21.6.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
